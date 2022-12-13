@@ -4,6 +4,4 @@ actualmente trabajo como analiasta nivel 2 en el area de servidores del proyecto
 
 estoy aprendiendo en platzi y estoy haciendo el curso de Git y GitHub
 
-aprendiendo comandos en git, git add,  git status, git commit.
-
-Probando el comando checkout
+trabajando en mi primer commit.
