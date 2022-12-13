@@ -1,7 +1,7 @@
-Hola mi nombre es Andres Gonzalez tengo 26 años, soy tecnologo en gestion de redes de datos
+Hola mi nombre es Andres Gonzalez, soy tecnologo ene gestion de redes de datos,
 
-actualmente trabajo como analiasta nivel 2 en el area de servidores del proyecto SIATA
+actualmente trabajo como analiasta nivel 2 en el area de servidores del proyecto SIATA,
 
 estoy aprendiendo en platzi y estoy haciendo el curso de Git y GitHub
 
-aprendiendo comandos en git, git add,  git status, git commit.
+Prueba checkout
