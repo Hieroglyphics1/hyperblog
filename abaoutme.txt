@@ -1,6 +1,6 @@
 Hola mi nombre es Andres Gonzalez tengo 26 años, soy tecnologo en gestion de redes de datos
 
-Hola soy platzi tengo 1 dia de vida y naci en internet
+Hola soy anita platzi y estoy contribuyendo a este proyecto open source
 
 actualmente trabajo como analiasta nivel 2 en el area de servidores del proyecto SIATA
 
